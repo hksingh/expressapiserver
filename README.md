@@ -1,10 +1,13 @@
 # expressapiserver
 
 The project sets up an express api server. based on the course on youtube : https://www.youtube.com/watch?v=qy8PxD3alWw
+please also visit this one: https://www.youtube.com/watch?v=vDLE8hqzA8I
+https://github.com/CodingGarden/intro-to-typescript/blob/examples/examples/express-api/src/app.ts
 
 1. Deletes the dist folder and recreates it every time file changes
 2. typescript compiler runs on watch mode
 3. concurrently is letting run commands in parallel
+4. Use routing to publish many more routes.
 
 ## run the project
 npm run serve (this would run the preserve every time followed by serve)
